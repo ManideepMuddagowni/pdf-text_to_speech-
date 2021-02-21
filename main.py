@@ -1,3 +1,4 @@
+### pyttsx3 = pythontexttospeech and x3 is version
 import pyttsx3
 import PyPDF2
 from gtts import gTTS
